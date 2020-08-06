@@ -1,0 +1,9 @@
+[package]
+name = "hello-rust"
+version = "0.1.0"
+authors = ["wusticality <1028792+wusticality@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
